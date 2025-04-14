@@ -1,5 +1,5 @@
-Environment de calcul SageMath pour Math402
-===========================================
+Environment de calcul SageMath
+==============================
 
 Il faut juste faire un click sur ce badge
 
